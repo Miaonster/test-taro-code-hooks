@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "test-taro-code-hooks",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
